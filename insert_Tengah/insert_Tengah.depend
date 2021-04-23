@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619107808 source:d:\program c\insert_tengah\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
